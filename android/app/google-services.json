@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "313221500770",
+    "firebase_url": "https://chat-360-7f0b6-default-rtdb.firebaseio.com",
+    "project_id": "chat-360-7f0b6",
+    "storage_bucket": "chat-360-7f0b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313221500770:android:fd568a7c3c562bba76263b",
+        "android_client_info": {
+          "package_name": "limitless.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313221500770-079bu1kl7ed487nueovb2m5d3mqi9q1n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "limitless.chat",
+            "certificate_hash": "e5f0e43cc7e4f84b081c7ca2e5c4a986b1078da2"
+          }
+        },
+        {
+          "client_id": "313221500770-jf2mft19seto9vva19j6i4g3kbuvjb0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "limitless.chat",
+            "certificate_hash": "2428e84dcb643bce2ff645f844fda50c880072a3"
+          }
+        },
+        {
+          "client_id": "313221500770-tro1g4r6uvm21o5ku8p3f18rho8c308v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "limitless.chat",
+            "certificate_hash": "743481803c349423342f4e7f25cdc342a1bbd2a4"
+          }
+        },
+        {
+          "client_id": "313221500770-2ai55h66fgi3r49lbnjk7nvngbl16g40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQqRWJb56SF4K22T8CvD_MTZw6NSj8Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313221500770-2ai55h66fgi3r49lbnjk7nvngbl16g40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313221500770-i06f7sv26lkm4tljpka5a6irmqf11cup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "limitless.chat360"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313221500770:android:86cb9d3f6f10ff9f76263b",
+        "android_client_info": {
+          "package_name": "limitless.chat_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313221500770-2ai55h66fgi3r49lbnjk7nvngbl16g40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJQqRWJb56SF4K22T8CvD_MTZw6NSj8Lw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313221500770-2ai55h66fgi3r49lbnjk7nvngbl16g40.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "313221500770-i06f7sv26lkm4tljpka5a6irmqf11cup.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "limitless.chat360"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
